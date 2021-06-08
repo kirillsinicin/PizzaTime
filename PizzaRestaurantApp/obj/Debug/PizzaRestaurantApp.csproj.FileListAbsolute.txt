@@ -1,0 +1,7 @@
+C:\Users\Kirill\source\repos\PizzaRestaurantApp\bin\Debug\PizzaRestaurantApp.exe.config
+C:\Users\Kirill\source\repos\PizzaRestaurantApp\bin\Debug\PizzaRestaurantApp.exe
+C:\Users\Kirill\source\repos\PizzaRestaurantApp\bin\Debug\PizzaRestaurantApp.pdb
+C:\Users\Kirill\source\repos\PizzaRestaurantApp\obj\Debug\PizzaRestaurantApp.csprojAssemblyReference.cache
+C:\Users\Kirill\source\repos\PizzaRestaurantApp\obj\Debug\PizzaRestaurantApp.csproj.CoreCompileInputs.cache
+C:\Users\Kirill\source\repos\PizzaRestaurantApp\obj\Debug\PizzaRestaurantApp.exe
+C:\Users\Kirill\source\repos\PizzaRestaurantApp\obj\Debug\PizzaRestaurantApp.pdb
